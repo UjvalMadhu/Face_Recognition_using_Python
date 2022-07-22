@@ -1,1 +1,1 @@
-# Face_Recognition_using_Python
+# Face Recognition using Python
